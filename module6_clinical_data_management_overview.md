@@ -46,17 +46,18 @@ Data quality and integrity are critical to the success of clinical research:
 - **Standard Operating Procedures (SOPs)**: Ensure consistency in data handling.
 
 ```mermaid
-pie
-    title ALCOA+ Data Integrity Principles
-    "Attributable": 15
-    "Legible": 10
-    "Contemporaneous": 15
-    "Original": 10
-    "Accurate": 15
-    "Complete": 10
-    "Consistent": 10
-    "Enduring": 10
-    "Available": 5
+graph LR
+    A[ALCOA+ Principles] --> B[Attributable]
+    A --> C[Legible]
+    A --> D[Contemporaneous]
+    A --> E[Original]
+    A --> F[Accurate]
+    A --> G[Complete]
+    A --> H[Consistent]
+    A --> I[Enduring]
+    A --> J[Available]
+
+
 ```
 
 ---

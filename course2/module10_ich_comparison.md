@@ -33,7 +33,7 @@ graph TD
     A -->|ICH E6| H[Sponsor: Risk-Based Quality Management]
     A -->|FDA| I[Sponsor: Basic Monitoring Responsibilities]
 
-    classDef chartStyle fill:#e3f2fd,stroke:#2196f3,stroke-width:2px;
+    classDef chartStyle #ffebee,stroke:#e53935,stroke-width:2px;
     class A,B,C,D,E,F,G,H,I chartStyle;
 ```
 
